@@ -79,13 +79,15 @@ A modern, responsive contact management application built with HTML, CSS, Bootst
 
 ```
 contact-manager-app/
-├── index.html                 # Landing page
+├── index.html                 # Root direectory
 ├── contact-manager.html       # React contact manager (standalone)
 ├── src/
 │   ├── components/
-│   │   └── ContactManager.js  # Main React component
+│   │   └── ContactManager.jsx  # Main React component
+|   |    └── LandingPage.jsx   #Landing Page
 │   ├── styles/
-│   │   └── custom.css         # Custom CSS styles
+│   │   └── ContactManager.css         # ContactManager CSS styles
+|   |  └── ContactManager.css         # LandingPage CSS styles
 │   └── assets/
 │       └── images/            # Project images
 ├── README.md                  # This file
