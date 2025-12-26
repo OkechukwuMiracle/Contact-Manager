@@ -10,7 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@farcaster/miniapp-sdk": "^0.2.1",
+    "@farcaster/miniapp-wagmi-connector": "^1.1.0",
     "@fortawesome/fontawesome-free": "^7.0.1",
+    "@neynar/react": "^1.2.22",
+    "@pigment-css/react": "^0.0.30",
     "bootstrap": "^5.3.8",
     "lucide-react": "^0.544.0",
     "react": "^19.1.1",

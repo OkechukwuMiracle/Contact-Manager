@@ -3,6 +3,7 @@ import ContactManager from './components/ContactManager.jsx'
 import LandingPage from './components/LandingPage.jsx'
 import {Route, Routes} from 'react-router-dom'
 
+
 const App = () => {
   return (
     <div>

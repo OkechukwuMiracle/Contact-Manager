@@ -3,8 +3,11 @@ import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./LandingPage.css"; // we’ll move your <style> block here
+import { useMiniApp } from '@neynar/react';
 
 export default function LandingPage() {
+
+  const { isSDKLoaded, context } = useMiniApp();
   useEffect(() => {
     // Smooth scrolling for in-page links
     const handleSmoothScroll = (e) => {
@@ -49,6 +52,8 @@ export default function LandingPage() {
 
   return (
     <>
+    {isSDKLoaded && (
+      <div>
       {/* Navigation */}
       <nav className="navbar navbar-expand-lg fixed-top">
         <div className="container">
@@ -203,6 +208,8 @@ export default function LandingPage() {
           </div>
         </div>
       </footer>
+      </div>
+    )}
     </>
   );
 }
