@@ -13,6 +13,6 @@
     "buttonTitle": "Contact Manager",
     "splashImageUrl": "https://contact-manager-sable-ten.vercel.app/logo.jpg",
     "splashBackgroundColor": "#e8d3c2",
-    "webhookUrl": "https://contact-manager-sable-ten.vercel.app/api/farcaster/webhook"
+    "description": "Manage your contacts with ease using the Contact Manager Mini App."
   }
 }
