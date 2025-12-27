@@ -6,13 +6,13 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "Yoink!",
-    "iconUrl": "https://yoink.party/logo.png",
-    "homeUrl": "https://yoink.party/framesV2/",
-    "imageUrl": "https://yoink.party/framesV2/opengraph-image",
-    "buttonTitle": "🚩 Start",
-    "splashImageUrl": "https://yoink.party/logo.png",
+    "name": "Contact Manager",
+    "iconUrl": "https://contact-manager-sable-ten.vercel.app/logo.",
+    "homeUrl": "https://contact-manager-sable-ten.vercel.app/",
+    "imageUrl": "https://contact-manager-sable-ten.vercel.app/assets/",
+    "buttonTitle": "Contact Manager",
+    "splashImageUrl": "https://contact-manager-sable-ten.vercel.app/logo.png",
     "splashBackgroundColor": "#f5f0ec",
-    "webhookUrl": "https://yoink.party/api/webhook"
+    "webhookUrl": "https://contact-manager-sable-ten.vercel.app/api/farcaster/webhook"
   }
 }
