@@ -1,4 +1,9 @@
 {
+    "accountAssociation": {
+    "header": "eyJmaWQiOjEyMDU1ODQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2MjkxMkZkMzdFZjZBNTg1MDY3QzVhNjFlMTVFOWI0ZDViOTRGRDlFIn0",
+    "payload": "eyJkb21haW4iOiJjb250YWN0LW1hbmFnZXItc2FibGUtdGVuLnZlcmNlbC5hcHAifQ",
+    "signature": "ZZlyM9ji9bJMQ32F/EmkdJVdMEiEMp/KEDtFPBm+/Xg+tpVFEDLqfZzYNVgQ7PScj1Z14f/1htSr9qLBJYGwXxw="
+  },
   "miniapp": {
     "version": "1",
     "name": "Contact Manager",
