@@ -1,18 +1,13 @@
 {
-  "accountAssociation": {
-    "header": "eyJmaWQiOjM2MjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyY2Q4NWEwOTMyNjFmNTkyNzA4MDRBNkVBNjk3Q2VBNENlQkVjYWZFIn0",
-    "payload": "eyJkb21haW4iOiJ5b2luay5wYXJ0eSJ9",
-    "signature": "MHgwZmJiYWIwODg3YTU2MDFiNDU3MzVkOTQ5MDRjM2Y1NGUxMzVhZTQxOGEzMWQ5ODNhODAzZmZlYWNlZWMyZDYzNWY4ZTFjYWU4M2NhNTAwOTMzM2FmMTc1NDlmMDY2YTVlOWUwNTljNmZiNDUxMzg0Njk1NzBhODNiNjcyZWJjZTFi"
-  },
   "miniapp": {
     "version": "1",
     "name": "Contact Manager",
-    "iconUrl": "https://contact-manager-sable-ten.vercel.app/logo.",
+    "iconUrl": "https://contact-manager-sable-ten.vercel.app/logo.jpg",
     "homeUrl": "https://contact-manager-sable-ten.vercel.app/",
     "imageUrl": "https://contact-manager-sable-ten.vercel.app/assets/",
     "buttonTitle": "Contact Manager",
     "splashImageUrl": "https://contact-manager-sable-ten.vercel.app/logo.png",
-    "splashBackgroundColor": "#f5f0ec",
+    "splashBackgroundColor": "#e8d3c2",
     "webhookUrl": "https://contact-manager-sable-ten.vercel.app/api/farcaster/webhook"
   }
 }
