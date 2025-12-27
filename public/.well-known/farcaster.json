@@ -8,11 +8,14 @@
     "version": "1",
     "name": "Contact Manager",
     "iconUrl": "https://contact-manager-sable-ten.vercel.app/logo.jpg",
+    "screenshotsUrl": "https://contact-manager-sable-ten.vercel.app/screenshot1.jpg",
     "homeUrl": "https://contact-manager-sable-ten.vercel.app/",
     "imageUrl": "https://contact-manager-sable-ten.vercel.app/logo.jpg",
     "buttonTitle": "Contact Manager",
     "splashImageUrl": "https://contact-manager-sable-ten.vercel.app/logo.jpg",
     "splashBackgroundColor": "#e8d3c2",
-    "description": "Manage your contacts with ease using the Contact Manager Mini App."
+    "description": "Manage your contacts with ease using the Contact Manager Mini App.",
+    "webhookUrl": "https://contact-manager-sable-ten.vercel.app/api/webhook",
+    "primaryCategory": "Social"
   }
 }
