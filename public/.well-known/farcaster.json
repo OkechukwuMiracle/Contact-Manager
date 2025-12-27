@@ -16,6 +16,6 @@
     "splashBackgroundColor": "#e8d3c2",
     "description": "Manage your contacts with ease using the Contact Manager Mini App.",
     "webhookUrl": "https://contact-manager-sable-ten.vercel.app/api/webhook",
-    "primaryCategory": "Social"
+    "primaryCategory": "social"
   }
 }
